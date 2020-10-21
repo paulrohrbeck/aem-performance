@@ -8,6 +8,7 @@ A collection of links and resources for creating faster websites with AEM. These
 ## Adobe documentation pages
 * [Configuring Dispatcher](https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html)
 * [Optimizing the Dispatcher cache](https://helpx.adobe.com/experience-manager/kb/optimizing-the-dispatcher-cache.html)
+* [Optimizing AEM Site Caches](https://helpx.adobe.com/experience-manager/kb/optimizing-aem-site-caches.html)
 
 ## Videos
 * [Optimizing the CQ Dispatcher Cache](https://my.adobeconnect.com/p7th2gf8k43)
