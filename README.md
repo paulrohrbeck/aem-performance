@@ -21,3 +21,7 @@ A collection of links and resources for creating faster websites with AEM. These
 * [AEM ACS Commons - Dispatcher FLush Rules](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-flush-rules/index.html) - Create smarter cache invalidation rules to get around limitations with stat file level.
 * [Apache Sling Dynamic Include](https://sling.apache.org/documentation/bundles/dynamic-includes.html) - Replaces dynamic components (eg. current time or foreign exchange rates) with server-side include tags (eg. SSI or ESI)
 * [Purge Surgeon](https://github.com/AvionosLLC/purge-surgeon) - OSGi bundle that uses the Akamai Fast Purge API to purge content from Akamai when content is replicated
+
+## Image optimization tools
+* [Squoosh](https://squoosh.app/) - Online tool for minimizing images
+* [ImageOptim](https://imageoptim.com/mac) - Mac app for minimizing images in bulk
